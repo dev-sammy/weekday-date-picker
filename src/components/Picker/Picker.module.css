@@ -1,0 +1,16 @@
+.picker{
+    display: flex;
+    gap: 1rem;
+    margin-bottom: 1rem;
+}
+
+.picker select{
+    font-size: 0.75rem;
+    padding: 0.15rem;
+}
+
+.picker label{
+    font-size: 0.75rem;
+    font-weight: bold;
+    margin-right: 0.25rem;
+}

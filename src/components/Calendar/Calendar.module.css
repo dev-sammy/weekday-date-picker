@@ -1,0 +1,39 @@
+.panel {
+    width: max(45vw, 100%);
+}
+
+.label{
+    font-size: 1rem;
+    font-weight: bold;
+    padding-bottom: 0.5rem;
+    display: block;
+    text-align: left;
+    border-bottom: 1px solid #d6d6d6;
+    margin-bottom: 1rem;
+}
+
+.week-days{
+    font-size: 0.625rem;
+    font-weight: bold;
+    padding: 0.4rem;
+}
+
+.day {
+    padding: 0.4rem;
+    font-size: 0.875rem;
+    display: block;
+    width: 100%;
+}
+
+.today {
+    border: 1px solid #646cff;
+}
+
+.weekend {
+    color: rgb(215, 12, 165, 50%);
+}
+
+.selected {
+    background-color: rgb(100, 108, 255);
+    color: #ffffff;
+}

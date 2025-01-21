@@ -1,0 +1,23 @@
+.range-picker{
+    display: flex;
+    gap: 1rem;
+  }
+
+  .range-footer{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 16px;
+    align-items: center;
+  }
+
+  .ranges button{
+    font-size: 0.75rem;
+    background-color: transparent;
+    margin-right: 0.5rem;
+    
+  }
+
+  .actions button{
+    font-size: 0.75rem;
+    margin-left: 0.5rem;
+  }
